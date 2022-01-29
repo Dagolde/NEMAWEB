@@ -24,7 +24,7 @@
         <div class="container">
           <!-- Navbar Brand -->
           <div class="navbar-header d-flex align-items-center justify-content-between">
-            <!-- Navbar Brand --><a href="#" class="navbar-brand">E-CodeSource</a>
+            <!-- Navbar Brand --><a href="#" class="navbar-brand">NEMA CDS WEB</a>
             <!-- Toggle Button-->
             <button type="button" data-toggle="collapse" data-target="#navbarcollapse" aria-controls="navbarcollapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler"><span></span><span></span><span></span></button>
           </div>
@@ -66,10 +66,8 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8">
-            <h2 class="h3">Downloadable Free Source Code Archive</h2>
-            <p class="text-big"><strong>Welcome to E-CodeSource!</strong> Feel free to browse projects
-             suitable for your needs. <strong>It's all free and easy as 1-2-3 to use</strong> because it also prepared 
-             guides about individual projects. Happy coding fellow coder!
+            <h2 class="h3">Edit/h2>
+            <p class="text-big"><strong>Welcome to NEMA CDS!</strong> !
             </p>
           </div>
         </div>
@@ -88,11 +86,7 @@
                   <a href="system_list1.php"><h2 class="h4">Web Development Source Codes</h2></a>
                 </header>
                 
-                <p>
-                Archives of projects developed using <strong>HTML, CSS, and JavaScript</strong> as front-end and 
-                <strong>PHP</strong> and <strong>MySQL</strong> as back-end development.
-                </p>
-                
+              
                 <?php
                 $totalViews=0;
                 $totalDownoads=0;
@@ -133,9 +127,7 @@
                   <div class="category"><a href="system_list1.php">VB.NET BASED SYSTEMS</a></div>
                   <a href="system_list1.php"><h2 class="h4">Windows Form Application Source Codes</h2></a>
                 </header>
-                <p>
-                Archives of projects developed using <strong>Microsoft Visual Studio</strong> software and <strong>MySQL</strong> as back-end development.
-                </p>
+               
                 
                 <?php
                 $totalViews2=0;
