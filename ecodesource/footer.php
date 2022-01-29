@@ -4,16 +4,16 @@
         <div class="row">
           <div class="col-md-12">
             <div class="logo">
-              <h6 class="text-white">E-CodeSource</h6>
+              <h6 class="text-white">NODESTECH</h6>
             </div>
             <div class="contact-details">
-              <p>Binalbagan, Negros Occidental - 6107</p>
-              <p>Phone: (+63) 930 3546 547</p>
-              <p>Email: <a href="mailto:ecodesource@gmail.com">ecodesource@gmail.com</a></p>
-              <ul class="social-menu">
+              <p>Oshimili South Asaba Delta State/p>
+              <p>Phone: (+234) 9034057885</p>
+              <p>Email: <a href="mailto:nodestech2@gmail.com">nodestech2@gmail.com</a></p>
+              <!--<ul class="social-menu">
                 <li class="list-inline-item"><a href="https://www.facebook.com/e.codesourceofficial" target="_blank"><i class="fa fa-facebook-square"></i></a></li>
                 <li class="list-inline-item"><a href="https://www.youtube.com/channel/UC93xeFBknaatQG6PQTnaJEQ/featured?view_as=public" target="_blank"><i class="fa fa-youtube"></i></a></li>
-              </ul>
+              </ul>-->
             </div>
           </div>
           <!--div class="col-md-4">
@@ -53,7 +53,7 @@
         <div class="container">
           <div class="row">
             <div class="col-md-6">
-              <p>&copy; 2020. All rights reserved. E-CODESOURCE.TK</p>
+              <p>&copy; 2022. All rights reserved.NODESTECHK</p>
             </div>
             <div class="col-md-6 text-right">
               <p>Template By <a href="https://bootstrapious.com/p/bootstrap-carousel" class="text-white">Bootstrapious</a>
